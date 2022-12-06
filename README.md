@@ -5,9 +5,9 @@
 - 팀명: 6T
 - 프로젝트명: SSANTA CLINIC 
 - 주제: 지친 ssafy 생들을 위로하는 크리스마스 분위기의 프로젝트
-- 기간: 2022.10.11(화) ~ 2022.10.18(금)
-- 발표: 2022.10.18(금)
-- 조원: 김혜린, 강승길, 임완택, 엄윤규, [이동환](https://github.com/onghwand), 허성은
+- 기간: 2022.10.11(화) ~ 2022.11.21(월)
+- 발표: 2022.11.21(월)
+- 조원: 김혜린, 강승길, 임완택, 엄윤규, 이동환, 허성은
 - 사용 기술 스택:
   - 협업, 버전관리: <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira Software&logoColor=white"> <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   - 언어: <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
